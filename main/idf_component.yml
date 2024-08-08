@@ -1,0 +1,4 @@
+dependencies:
+  LED:
+    git: https://github.com/ironmanwin1/LED_Test.git
+    path: components/LED
